@@ -1,1 +1,1 @@
-This is a program which simulates a hardware store in which users can check for peripherals,devices, and etc. by using data structures and algorithms.
+This C++ project implements a small product-management system for a computer store. It uses object-oriented programming, file handling, search algorithms, and sorting algorithms to manage and display product information.
